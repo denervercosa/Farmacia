@@ -1,0 +1,6 @@
+package com.generation.farmacia.repository;
+
+public interface ProdutoRepository extends_JpaRepository<Produto, Long> {
+	
+	
+}
